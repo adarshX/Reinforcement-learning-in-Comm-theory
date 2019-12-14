@@ -145,7 +145,7 @@ C = ra.avg_throughput
 D = np.floor(ra.allocated_channels)
 
 
-print(" allocated_channels :" , A)
+print(" allocated_channels :" , D)
 print("user rate indices : " ,B)
 print("avg throughuput :" ,C)
 
